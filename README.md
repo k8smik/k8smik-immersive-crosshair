@@ -1,8 +1,6 @@
 # k8smik-immersive-crosshair
 minimal addition to a relaxing and medieval feel of Minecraft
 
-This work is licensed under CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
-
 ![AutoHUD, SweetBerry Sans, k8's immersive crosshair, and some other stuff](https://i.imgur.com/0F9cLvY.jpeg)
 
 the big cross Minecraft has by default always looks jarring to me when I'm not doing things like PvP; things I rarely do nowadays since I enjoy doing small builds, explore with different terrain gen mods, and just appreciate the beauty this game can offer sometimes. and while mods like [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair) or [AutoHUD](https://modrinth.com/mod/autohud) certainly help, the big cross still becomes a bit of an annoyance and something that looks off to me.
